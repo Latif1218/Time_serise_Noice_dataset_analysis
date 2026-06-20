@@ -19,6 +19,9 @@ machine learning models.
 - Compare simple vs advanced ML models on time-series data
 - Handle real-world IoT challenges: noise, imbalanced labels, signal decomposition
 
+
+## Dataset link: https://www.kaggle.com/datasets/ziya07/iot-integrated-predictive-maintenance-dataset/data
+
 ---
 
 ## 📊 Dataset Description
